@@ -1,0 +1,31 @@
+Variables: para explicarlo de una manera facil voy a dar un ejemplo con
+frascos de condimentos,cada "frasco" lleva un nombre que representa lo 
+que tiene en su interior, y cada frasco tiene reservado un lugar en la
+caja de condimentos. Puede pasar que ese Frasco se llame "Sal" pero 
+contenga azucar, puede pasar pero puede generar un error a la hora de 
+cocinar (programar), por eso cada frasco debe tener un nombre que
+represente lo que guarda adentro
+
+Strings: Como dijimos dentro de estos "Frascos" en adelante variables se 
+puede guardar datos,estos datos tienen diferentes expresiones, los strings
+son expresiones de texto, estas van dentro de comillas, eso le indica al
+interprete que dentro de la variable estamos colocando datos de tipo strings
+
+Funciones: Imaginemos que tenemos muchas oficinas y que cada oficina 
+tiene un tarea diferente, dentro de esa oficina hay tareas especificas
+que estan creadas y hacen que esa oficina funcione, ademas se puede
+darle argumentos para que la oficina funcione de una manera u otra, 
+cada vez que necesitemos de algo y sabes que una de las oficinas lo 
+puede hacer, la llamamos para que haga su trabajo. Para mostrar lo que 
+hizo esa oficina se le pide que nos devuelva ese resultado, es decir 
+que nos retorne algo, a travez del return
+
+Declaraciones IF: aca podemos imaginar a un niño y su madre, el le pide
+salir a jugar y la madre le hace una declaracion en este caso que condiciona
+al niño, es decir le pone una condicion para que pueda salir, su madre 
+le dice al niño, podes salir a jugar SI! ordenas el cuarto, SINO no salis
+
+Valores Booleanos: esto tipos de valores nos dice solo dos cosas, si es 
+verdadero o falso, en el caso del IF lo que nos retorna es un valor booleano
+ya que nos dice que la resolucion va a ser verdadera o falsa dependiendo
+de lo que haga el niño. 
