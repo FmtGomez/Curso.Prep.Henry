@@ -1,0 +1,14 @@
+
+For: el ciclo For podemos decir que mientras una condicion se cumpla el ciclo se va a seguir realizando, por ejemplo si tenes un biblioteca vas a realizar la accion de poner libros,
+ vas a poner libros hasta que se llene,
+la cantidad de veces que realizas la accion de poner libros va a depender del espacio que tenga la biblioteca, este espacio lo vamos a conocer, a diferencia del while que 
+en ese caso no conoceriamos cuanto espacio tiene la bilbioteca. 
+
+&& : es un operador logico y nos ayuda a condicionar si un valor es verdadero o falso, por ejemplo si una madre dice, si ordenas tu cuarto y pones la mesa te regalo un 
+videojuego, el videojuego solo lo va a recibir si cumple con las dos condiciones, sino no.
+
+|| : aca tenemos otro operador logico que volviendo al ejemplo anterior la condicion sera si ordena el cuarto o pone la mesa, se le regala el videojuego, es decir
+si cumple al menos con una de las tareas que se le ordeno.
+
+! : este operar cambia lo que precede, es como decir algo y guiñar el ojo, puedo decir a un niño si no terminas tu comida (le guiño el ojo) 
+te regalo un juego, el niño sabra que tiene que hacer lo contrario a no terminar la comida.
