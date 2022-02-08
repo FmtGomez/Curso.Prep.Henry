@@ -1,0 +1,4 @@
+
+Los array son como contenedores que ya tienen una posicion predeterminada, ya tienen un orden que en este caso empieza en 0, es decir puede ir de 0 hasta "n",
+dentro de estos contenedores se pueden guardar datos, estos datos son los que venimos viendo, pero a su vez se pueden guardar funciones. Como estos datos o funciones
+que guardamos en ese contenedor ya tiene un lugar asignado, podemos acceder a ese dato o funcion, a su vez le podemos asignar un lugar y tambien podemos sacarlo del contenedor
