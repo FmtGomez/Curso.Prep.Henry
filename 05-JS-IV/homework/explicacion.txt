@@ -1,0 +1,12 @@
+
+Objetos : son similar a los arrays, es decir son cajas que guardan algo, ese algo lleva un valor con un nombre, a ese nombre le decimos que es una propiedad, a diferencia del indice de un 
+array, los objetos pueden tener todas las propiedades que necesite, y cuando invocamos al objetos nos va a mostrar todas las propiedades.
+
+Propiedades: es el valor que esta dentro del objeto
+
+Metodos : es un valor que esta dentro del objeto pero a diferencia de las propiedades los metodos solo vamos a poder colocar como valor una funcion()
+
+bucle for in: nos ayuda a recorrer el objeto
+
+notacion de puntos vs notacion de corchetes : la diferencia es que dot notation (por punto) toma la manera literal, es decir que si usamos el dot notation va a buscar dentro 
+del objeto la propiedad con el nombre de manera literal. En cambio la notacion de corchetes se puede especificar lo que buscamos.
