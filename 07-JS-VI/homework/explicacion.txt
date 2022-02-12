@@ -1,0 +1,3 @@
+
+Funciones callback = nos permite llamar una funcion dentro de otra funcion, es decir si tengo una edificio con oficinas que cada una realiza una funcion, yo puedo hacer una nueva
+oficina y llame a las otras oficinas para que esten ahi dentro en una misma oficina. En lenguaje de programacion seria invocar una funcion dentro de otra 
