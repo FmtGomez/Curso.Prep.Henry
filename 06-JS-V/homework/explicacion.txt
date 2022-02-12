@@ -1,0 +1,4 @@
+
+Prototype : para entenderlo podemos decir que el Prototype de "algo" es como desde donde nace, desde donde fue creado, como una fruta, su Prototype es la planta, 
+pero el Prototype de planta es la semilla.
+constructors clases : una como una fabrica en donde se va a construir clases dentro tienen objetos con propiedades, esto nos va a facilitar a la hora de crear un objeto. 
